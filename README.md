@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/SgmoSmartFactory/Phoenix-RA/_apis/build/status/lyvius.pipelines-java?branchName=master)](https://dev.azure.com/SgmoSmartFactory/Phoenix-RA/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
